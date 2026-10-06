@@ -73,12 +73,12 @@ Il existe également des sous-séries dont la terminaison est **-etosum** (ex : 
 
 ### **Toposéquence générale des séries de végétations ⬇️**
 
-|Nom|Étiquettes|
-|---|---|
-|**Série édaphoxérophile**|Séries associées aux milieux secs. Séries de crêtes qui sont souvent des formations herbacées ou arbustives au stade terminale|
-|Série climatophile|Séries de versant pentu ou non. On y retrouve classiquement les séries de forations arborées tel que les hêtraies, forêts mésophiles, diverses pinèdes etc…|
-|_**➡️**Série tempohygrophile_|Il s’agit des séries climatophiles les plus proches de la zone des séries édaphohygrophiles. On va par exemple y retrouver les forêts mésophiles, mais pas les hêtraies qui sont plus en altitude sur le versant.|
-|**Série édaphohygrophile**|Séries de végétations du lit mineur et majeur des cours d’eau. Il s’agit des séries de fond de vallée qui sont souvent associées à l’eau.|
+| Nom                           | Étiquettes                                                                                                                                                                                                        |
+| ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Série édaphoxérophile**     | Séries associées aux milieux secs. Séries de crêtes qui sont souvent des formations herbacées ou arbustives au stade terminale                                                                                    |
+| Série climatophile            | Séries de versant pentu ou non. On y retrouve classiquement les séries de formations arborées tel que les hêtraies, forêts mésophiles, diverses pinèdes etc…                                                      |
+| _**➡️**Série tempohygrophile_ | Il s’agit des séries climatophiles les plus proches de la zone des séries édaphohygrophiles. On va par exemple y retrouver les forêts mésophiles, mais pas les hêtraies qui sont plus en altitude sur le versant. |
+| **Série édaphohygrophile**    | Séries de végétations du lit mineur et majeur des cours d’eau. Il s’agit des séries de fond de vallée qui sont souvent associées à l’eau.                                                                         |
 
 ### **Catégories de successions**
 
